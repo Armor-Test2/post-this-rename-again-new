@@ -13,22 +13,3 @@
 /build/ @Armor-test/unit-cloud @Armor-test/squad-cache @Armor-test/dept-billing
 /vendor/ @Armor-test/dept-logging @Armor-test/dept-reporting @Armor-test/dept-automation
 /views/ @Armor-test/grp-payments @Armor-test/team-reporting
-
-# File type ownership
-*.kt @Armor-test/grp-storage @Armor-test/squad-search
-*.yml @Armor-test/grp-integration @Armor-test/team-research
-*.sql @Armor-test/squad-search @Armor-test/squad-research @Armor-test/unit-cloud
-*.properties @Armor-test/team-reporting @Armor-test/unit-governance @Armor-test/squad-ux
-*.java @Armor-test/unit-test @Armor-test/grp-payments @Armor-test/dept-test
-*.jsx @Armor-test/team-reporting @Armor-test/unit-governance
-*.ini @Armor-test/team-notifications @Armor-test/squad-reporting
-*.sh @Armor-test/dept-api @Armor-test/unit-devops @Armor-test/dept-data
-*.cs @Armor-test/team-governance @Armor-test/squad-cache @Armor-test/squad-payments
-*.graphql @Armor-test/dept-security @Armor-test/squad-mobile @Armor-test/team-logging
-*.h @Armor-test/dept-automation @Armor-test/squad-mobile @Armor-test/squad-payments
-
-# Security and special files
-.github/workflows/ @Armor-test/ci-team @Armor-test/devops
-Jenkinsfile @Armor-test/ci-team @Armor-test/devops
-Dockerfile @Armor-test/devops @Armor-test/infra
-/src/**/auth/ @Armor-test/security @Armor-test/auth-team
