@@ -8,8 +8,3 @@
 /shared/ @Armor-test/squad-product @Armor-test/squad-apps @Armor-test/grp-ui
 /app/ @Armor-test/unit-design @Armor-test/squad-research @Armor-test/dept-notifications
 /common/ @Armor-test/dept-billing @Armor-test/team-research @Armor-test/unit-cloud
-/pages/ @Armor-test/dept-identity @Armor-test/unit-design @Armor-test/team-logging
-/examples/ @Armor-test/dept-reliability @Armor-test/grp-integration @Armor-test/dept-ui
-/build/ @Armor-test/unit-cloud @Armor-test/squad-cache @Armor-test/dept-billing
-/vendor/ @Armor-test/dept-logging @Armor-test/dept-reporting @Armor-test/dept-automation
-/views/ @Armor-test/grp-payments @Armor-test/team-reporting
